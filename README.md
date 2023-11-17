@@ -13,7 +13,7 @@ A React-based web application that serves as a restaurant menu, allowing users t
   ## Screenshots
 
 ![Breakfast](./screenshots/breakfast.png)
-*Break Fast Food*
+*Break Fast*
 
 ![Lunch](./screenshots/all.png)
-*All Food*
+*All*
